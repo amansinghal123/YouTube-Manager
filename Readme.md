@@ -15,9 +15,17 @@ Frameworks and Libraries Used:
 3. Git and GitHub
     - .gitignore
 
-4. Prettier (NodeJS Dependency)
+4. Prettier (NodeJS devDependencies)
     - .prettierrc
     - .prettierignore
 
 5. dotenv (NodeJS Dependency)
     - .env
+
+6. nodemon (NodeJS devDependencies)
+
+7. MondoDB 
+
+8. Mongoose (NodeJS Dependency)
+
+9. Express (NodeJS Dependency)
